@@ -1,7 +1,7 @@
 name: 2016.05.05
 favicon: null
-layout_spectrum: 0.5474906908348203
-typography_spectrum: 0.23706827079877257
+layout_spectrum: 1
+typography_spectrum: 0.74863
 title: '00100'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.35229069320484996
-  lightness: 0.66754244803451
-  saturation: 0.8702368482481688
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.5
   rhythmicContrast: 0.32234407821670175
 purpose: []
