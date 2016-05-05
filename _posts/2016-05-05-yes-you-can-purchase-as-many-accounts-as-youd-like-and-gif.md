@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Yes. You can purchase as many accounts as you'd like and gift them should you choose. Just sign up for a Founding Membership and contact us to let us know you'd like to give it as a gift to someone else."
-datePublished: '2016-05-05T22:14:03.826Z'
-dateModified: '2016-05-05T22:14:01.870Z'
+datePublished: '2016-05-05T22:15:22.843Z'
+dateModified: '2016-05-05T22:14:20.598Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-05-yes-you-can-purchase-as-many-accounts-as-youd-like-and-gif.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-yes-you-can-purchase-as-many-accounts-as-youd-like-and-gif.md
 url: yes-you-can-purchase-as-many-accounts-as-youd-like-and-gif/index.html
 _type: Article
 
