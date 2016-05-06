@@ -1,29 +1,41 @@
-name: 2016.05.05
-favicon: null
-layout_spectrum: 0.74863
-typography_spectrum: 0.75594
 title: '00100'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0
+  brandStrength: 0.5035842
+  lightness: 1
   brandColors:
     - '#fbffff'
     - '#ccd4d7'
     - '#9e9e9e'
     - '#443b32'
     - '#030403'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0
-purpose: []
+  rhythmicContrast: 0.4910394
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: 2016.05.05
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.7329749
+layout_spectrum: 0.469534
